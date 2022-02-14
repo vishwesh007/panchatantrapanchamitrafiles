@@ -1,0 +1,51 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009009&gpname=ALDAL>ಆಲ�?ದಾಳ (ALDAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009014&gpname=ARKERA(K)>ಅರಕೇರಾ. ಕೆ. (ARKERA(K))</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009043&gpname=BADYAPUR>ಬಾದ�?ಯಾಪ�?ರ (BADYAPUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009015&gpname=DEIKERA>ದೇವಿಕೇರಾ (DEIKERA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009030&gpname=DEVAPUR>ದೇವಾಪ�?ರ (DEVAPUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009018&gpname=DEVARGONAL>ದೇವರಗೋನಾಲ (DEVARGONAL)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009034&gpname=DEVATKAL>ದೇವತಕಲ�?‌ (DEVATKAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009044&gpname=HEGGANADODDI>ಹೆಗ�?ಗಣದೊಡ�?ಡಿ (HEGGANADODDI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009032&gpname=HEMANOOR>ಹೇಮನೂರ (HEMANOOR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009038&gpname=KACHAKNUR>ಕಚಕನೂರ (KACHAKNUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009017&gpname=KARADAKAL>ಕರಡಕಲ (KARADAKAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009039&gpname=KHANAPUR(S.H)>ಖಾನಾಪ�?ರ (ಎಸ�?‌.ಎಚ) (KHANAPUR(S.H))</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009045&gpname=KIRDAHALLI>ಕಿರದಹಳ�?ಳಿ (KIRDAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009016&gpname=MALGATTI>ಮಾಲಗತ�?ತಿ (MALGATTI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009022&gpname=MALLA(B)>ಮಲ�?ಲಾ ಬಿ (MALLA(B))</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009001&gpname=NAGANOOR>ನಗನೂರ (NAGANOOR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009029&gpname=PETHAMMAPUR>ಪೇಠ ಅಮ�?ಮಾಪ�?ರ (PETHAMMAPUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009037&gpname=SUGOOR>ಸೂಗೂರ�? (SUGOOR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009003&gpname=TINTHNI>ತಿಂಥಣಿ (TINTHNI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009010&gpname=WAGANGERA>ವಾಗಣಗೇರಾ (WAGANGERA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009024&gpname=YAKTAPUR>ಯಕ�?ತಾಪ�?ರ (YAKTAPUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530009004&gpname=YALAGI>ಯಾಳಗಿ (YALAGI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530009020&gpname=YEVOOR>ಯೆವೂರ (YEVOOR)</a></td>
+		</tr>
+	

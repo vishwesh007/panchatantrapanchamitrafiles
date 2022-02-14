@@ -1,0 +1,53 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002022&gpname=ALOORUDUDDANAHALLI>ಆಲೂರ�? ದ�?ದ�?ದನಹಳ�?ಳಿ (ALOORUDUDDANAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002019&gpname=ANNESWARA>ಅಣ�?ಣೇಶ�?ವರ (ANNESWARA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002009&gpname=AVATHI>ಆವತಿ (AVATHI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002014&gpname=BETTAKOTE>ಬೆಟ�?ಟಕೊಟೆ (BETTAKOTE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002003&gpname=BIDALURU>ಬಿದಲೂರ�? (BIDALURU)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002002&gpname=BIJJAVARA>ಬಿಜ�?ಜವಾರ (BIJJAVARA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002013&gpname=BOODIGERE>ಬೂದಿಗೆರೆ (BOODIGERE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002011&gpname=CHANNAHALLI>ಚನ�?ನಹಳ�?ಳಿ (CHANNAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002010&gpname=CHANNARAYAPATNA>ಚನ�?ನರಾಯಪಟ�?ಟಣ (CHANNARAYAPATNA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002018&gpname=GANGAVARACHOWDAPPANAHALLI>ಗಂಗವಾರಚೌಡಪ�?ಪನಹಳ�?ಳಿ (GANGAVARACHOWDAPPANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002021&gpname=GODLUMUDDENAHALLI>ಗೊಡ�?ಲ�?ಮ�?ದ�?ದೇನಹಳ�?ಳಿ (GODLUMUDDENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002020&gpname=HAROHALLI>ಹಾರೋಹಳ�?ಳಿ (HAROHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002023&gpname=I.BASAPURA>�?.ಬಸಾಪ�?ರ (I.BASAPURA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002012&gpname=JALIGE>ಜಾಲಿಗೆ (JALIGE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002004&gpname=KANNAMANGALA>ಕನ�?ನಮಂಗಲ (KANNAMANGALA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002006&gpname=KARAHALLI>ಕಾರಹಳ�?ಳಿ (KARAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002007&gpname=KOIRA>ಕೊಯಿರಾ (KOIRA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002008&gpname=KORAMANGALA>ಕೋರಮಂಗಲ (KORAMANGALA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002005&gpname=KUNDANA>ಕ�?ಂದಾಣ (KUNDANA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002024&gpname=MANDIBELE>ಮಂಡಿಬೆಲೆ (MANDIBELE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002015&gpname=NALLURU>ನಲ�?ಲೂರ�? (NALLURU)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002017&gpname=VENKATAGIRIKOTE>ವೆಂಕಟಗಿರಿಕೋಟೆ (VENKATAGIRIKOTE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503002016&gpname=VISHWANATHAPURA>ವಿಶ�?ವನಾಥಪ�?ರ (VISHWANATHAPURA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503002001&gpname=YELIYURU>ಯಲಿಯೂರ�? (YELIYURU)</a></td>
+		</tr>
+	

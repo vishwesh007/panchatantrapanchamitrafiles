@@ -1,0 +1,305 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Panchayat Portal
+</title><link href="styles.css" rel="stylesheet" type="text/css" /><link href="App_Themes/gp_CSS/gpmaster.css" rel="stylesheet" type="text/css" />
+    <script>
+<!--
+function doBlink() {
+	var blink = document.all.tags("BLINK")
+	for (var i=0; i<blink.length; i++)
+		blink[i].style.visibility = blink[i].style.visibility == "" ? "hidden" : "" 
+}
+
+function startBlink() {
+	if (document.all)
+		setInterval("doBlink()",500)
+}
+window.onload = startBlink;
+// -->
+    </script>
+
+    <style type="text/css">
+        .style1
+        {
+            height: 16px;
+            width: 513px;
+        }
+        .style2
+        {
+            height: 16px;
+            width: 200px;
+        }
+    </style>
+
+</head>
+
+<body class="bodyCSS">
+  
+    
+    <form method="post" action="./displayDistTal.aspx?context=districtMap&amp;distCode=1506&amp;talCode=" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MjgzNTEwNzEPZBYCZg9kFgICAw9kFgwCAQ8PFgIeBFRleHQFJFdlbGNvbWUgVG8gR3JhbWEgUGFuY2hheWF0IFBvcnRhbCEhIGRkAgMPZBYCAgEPZBYEZg8PFgIfAAUiUGxlYXNlIGNsaWNrIG9uIHRoZSBQYW5jaGF5YXQgbmFtZWRkAgEPZBYCAgEPPCsACwBkAgUPEGRkFgFmZAIHDxBkZBYBAgFkAgkPZBYEAgEPDxYCHwAFQVBsZWFzZSBjbGljayBvbiB0aGUgRGlzdHJpY3QgTWFwIHRvIHZpZXcgVGFsdWt3aXNlIFBhbmNoYXlhdCBsaXN0ZGQCPw8WAh4HVmlzaWJsZWcWAgIBD2QWAgIBDzwrAAsBAA8WCB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCCB4JUGFnZUNvdW50AgEeFV8hRGF0YVNvdXJjZUl0ZW1Db3VudAIIZBYCZg9kFhACAQ9kFgJmDw8WAh8ABUY8YSBocmVmPU1haW5NZW51LmFzcHg/dGs9MTUwNjAwMSZ0a25hbWU9QVVSQUQ+4LKU4LKw4LK+4LKmIChBVVJBRCk8L2E+ZGQCAg9kFgJmDw8WAh8ABWM8YSBocmVmPU1haW5NZW51LmFzcHg/dGs9MTUwNjAwMiZ0a25hbWU9QkFTQVZBS0FMWUFOPuCyrOCyuOCyteCyleCysuCzjeCyr+CyvuCyoyAoQkFTQVZBS0FMWUFOKTwvYT5kZAIDD2QWAmYPDxYCHwAFTjxhIGhyZWY9TWFpbk1lbnUuYXNweD90az0xNTA2MDAzJnRrbmFtZT1CSEFMS0k+4LKt4LK+4LKy4LON4LKV4LK/IChCSEFMS0kpPC9hPmRkAgQPZBYCZg8PFgIfAAVGPGEgaHJlZj1NYWluTWVudS5hc3B4P3RrPTE1MDYwMDQmdGtuYW1lPUJJREFSPuCyrOCzgOCypuCysCAoQklEQVIpPC9hPmRkAgUPZBYCZg8PFgIfAAViPGEgaHJlZj1NYWluTWVudS5hc3B4P3RrPTE1MDYwMDgmdGtuYW1lPUNISVRBR1VQUEE+4LKa4LK/4LKf4LON4LKf4LKX4LOB4LKq4LON4LKqIChDSElUQUdVUFBBKTwvYT5kZAIGD2QWAmYPDxYCHwAFUzxhIGhyZWY9TWFpbk1lbnUuYXNweD90az0xNTA2MDA3JnRrbmFtZT1IVUxTT09SPuCyueCzgeCysuCyuOCzguCysOCzgSAoSFVMU09PUik8L2E+ZGQCBw9kFgJmDw8WAh8ABVg8YSBocmVmPU1haW5NZW51LmFzcHg/dGs9MTUwNjAwNSZ0a25hbWU9SFVNTkFCQUQ+4LK54LOB4LKu4LKo4LK+4LKs4LK+4LKmIChIVU1OQUJBRCk8L2E+ZGQCCA9kFgJmDw8WAh8ABVY8YSBocmVmPU1haW5NZW51LmFzcHg/dGs9MTUwNjAwNiZ0a25hbWU9S0FNQUxOQUdBUj7gspXgsq7gsrLgsqjgspfgsrAgKEtBTUFMTkFHQVIpPC9hPmRkAg0PDxYCHwAFCDQ1Mjk4Mzg2ZGRkXDBz5xKYEi4HHTE8xb8J6eNdnL+vbGREZzjBlwwDW5o=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AE36409F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfmYYuZwXs6ZvAV9T1Erf/mIu7rjlYoP5CmkcP+CCUde0w+jFjUSDnXB2WazOL1Umm4E2m/LIfJEmdt/UxTyPF+MGs+Q84rH3zx2++PR2OQYlcT1Q7Tv5SkobAK9i8oy8VmEQHQ+U4MtBjDgnEwy/Orhaj6k+TRGH6eR5C2BJxNR3TzbToM60bfI9NE94Csndw=" />
+</div>
+    <div id="header_gp">
+
+    </div>
+           
+     <div id="contentpage_gp">
+     <div >
+        <table  class="navibg">
+  <tr>
+  <td style="text-align:left; width:100px" ><span class="title_css_font">ಪಂಚಮಿತ�?ರ </span></td>
+  <td valign="top" style="text-align:center; padding-bottom:5px;" ><span id="lblwel" style="font-size:14pt;">Welcome To Grama Panchayat Portal!! </span></td>
+    <td style="text-align:Right; width:100px"><span class="title_css_font">PANCHAMITRA</span></td>
+  </tr></table>
+   
+ </div>
+        <table width="980px" height="450" border="0" cellpadding="5px" cellspacing="0px">
+             
+            <tr>
+                <td rowspan="4" valign="top" style="width: 320px;">
+                <div class="midcontenttop" style="margin-left:17px; margin-top:10px;"></div><div class="midcontentmid" style="margin-left:17px;">
+                    <img src="images/karnatakaMap.png" style="width: 320px;" height="466" border="0" usemap="#Map" align="right" />
+                  <map name="Map" id="Map">
+                        <area shape="poly" coords="242,13,237,16,230,24,219,25,216,30,209,40,204,45,204,55,216,56,225,57,235,63,245,61,252,54,256,42,256,29,255,21"
+                            href="#" alt="Bidar( ಬೀದರ�? )" onclick="getData('districtMap', 1506, '')" />
+                        <area shape="poly" coords="192,55,182,62,174,65,177,72,178,79,162,81,168,92,178,94,179,105,178,117,185,121,197,120,206,114,218,117,224,111,234,105,242,109,249,107,249,98,248,88,254,82,264,73"
+                            href="#" alt="Kalaburagi ( ಕಲಬ�?ರಗಿ )" onclick="getData('districtMap', 1515, '')" />
+                        <area shape="poly" coords="130,71,124,78,127,87,128,98,126,106,117,107,107,107,106,116,114,125,119,139,127,145,140,151,149,152,160,158,169,160,169,150,173,141,178,129,178,117,177,108,171,95,156,80"
+                            href="#" alt="Vijayapura ( ವಿಜಯಾಪ�?ರ )" onclick="getData('districtMap', 1507, '')" />
+                        <area shape="poly" coords="226,111,235,112,245,118,243,128,242,138,235,143,222,143,216,136,208,144,197,145,186,154,174,153,179,142,179,128"
+                            href="#" alt="Yadgir ( Yadgir )" onclick="getData('districtMap', 1530, '')" />
+                        <area shape="poly" coords="217,143,227,145,241,147,250,148,248,159,251,167,248,177,241,173,227,173,217,181,209,189,204,199,198,194,191,189,183,185,180,177,173,172,176,164,174,159"
+                            href="#" alt="Raichur( ರಾಯಚೂರ�? )" onclick="getData('districtMap', 1523, '')" />
+                        <area shape="poly" coords="109,122,113,134,120,141,130,149,144,153,154,158,166,163,170,173,158,170,154,168,148,175,139,172,136,177,135,180,130,177,121,175,125,179,118,176,113,164,106,155,100,153,94,145,88,146,84,135"
+                            href="#" alt="Bagalkot( ಬಾಗಲಕೋಟೆ )" onclick="getData('districtMap', 1501, '')" />
+                        <area shape="poly" coords="104,111,103,119,105,123,97,125,90,130,81,140,85,148,89,157,97,161,101,165,108,168,110,175,113,181,106,183,103,188,101,193,95,189,91,192,83,192,73,195,73,201,65,203,61,207,57,209,52,207,47,205,41,202,35,199,28,192,48,165,49,155,40,153,38,146,37,137,83,111"
+                            href="#" alt="Belagavi( ಬೆಳಗಾವಿ )" onclick="getData('districtMap', 1504, '')" />
+                        <area shape="poly" coords="84,194,93,195,103,196,112,196,108,208,111,213,111,218,112,228,110,232,102,227,96,226,87,228,84,230,80,226,79,213,73,210,76,198"
+                            href="#" alt="Dharwar( ಧಾರವಾಡ )" onclick="getData('districtMap', 1513, '')" />
+                        <area shape="poly" coords="38,208,45,214,53,212,64,214,75,217,75,224,76,232,80,236,89,237,84,244,88,245,87,250,84,259,88,264,84,270,76,274,78,279,76,285,81,283,71,284,66,289,63,295,56,298,56,298,51,295,45,274,41,265,34,258,30,250,26,246"
+                            href="#" alt="Uttara Kannada( ಉತ�?ತರ ಕನ�?ನಡ )" onclick="getData('districtMap', 1527, '')" />
+                        <area shape="poly" coords="92,231,101,232,110,235,118,235,125,240,127,246,129,252,133,263,129,267,123,272,122,278,115,275,107,264,102,261,95,256,88,252,89,236"
+                            href="#" alt="Haveri( ಹಾವೇರಿ )" onclick="getData('districtMap', 1517, '')" />
+                        <area shape="poly" coords="152,314,161,311,161,320,167,324,173,328,166,335,160,341,154,346,154,350,145,350,142,356,133,358,136,362,130,364,126,358,120,356,112,356,105,356,101,351,101,342,108,334,120,321"
+                            href="#" alt="Chikkamagaluru( ಚಿಕ�?ಕಮಗಳೂರ�? )" onclick="getData('districtMap', 1509, '')" />
+                        <area shape="poly" coords="60,305,68,311,80,316,86,324,88,332,94,341,96,350,100,355,98,359,92,366,86,362,76,358,67,347,72,356"
+                            href="#" alt="Udupi( ಉಡ�?ಪಿ )" onclick="getData('districtMap', 1526, '')" />
+                        <area shape="poly" coords="75,362,85,367,94,369,100,364,112,361,120,362,124,371,128,377,132,387,133,395,126,399,116,400,106,394,94,386,85,377,78,379,72,369"
+                            href="#" alt="Dakshina Kannada( ದಕ�?ಷಿಣ ಕನ�?ನಡ )" onclick="getData('districtMap', 1511, '')" />
+                        <area shape="poly" coords="176,335,178,342,178,351,182,360,192,363,193,374,188,380,180,378,178,388,174,392,164,398,158,395,156,382,148,380,144,390,137,385,134,375,134,369,143,358,167,342"
+                            href="#" alt="Hassan( ಹಾಸನ )" onclick="getData('districtMap', 1516, '')" />
+                        <area shape="poly" coords="219,286,231,282,236,281,241,288,248,283,240,294,243,300,229,295,224,293"
+                            href="#" alt="Tumakuru( ತ�?ಮಕೂರ�? )" onclick="getData('districtMap', 1525, '')" />
+                        <area shape="poly" coords="215,296,222,307,220,314,228,315,234,309,245,312,245,320,240,326,238,334,239,340,233,344,232,351,226,353,224,358,228,366,228,374,226,378,217,372,211,363,202,359,194,362,190,355,185,348,183,340,183,330"
+                            href="#" alt="Tumakuru( ತ�?ಮಕೂರ�? )" onclick="getData('districtMap', 1525, '')" />
+                        <area shape="poly" coords="279,304,284,312,288,308,288,316,292,321,290,327,282,332,280,341,274,337,266,337,260,332,250,328,246,322"
+                            href="#" alt="Chickkballapur( ಚಿಕ�?ಕಬಳ�?ಳಾಪ�?ರ )" onclick="getData('districtMap', 1528, '')" />
+                        <area shape="poly" coords="302,326,308,329,308,337,312,346,322,346,319,355,312,361,306,368,299,376,294,372,284,370,282,364,286,352,281,343"
+                            href="#" alt="Kolar( ಕೋಲಾರ)" onclick="getData('districtMap', 1519, '')" />
+                        <area shape="poly" coords="246,336" href="#" />
+                        <area shape="poly" coords="246,333,256,336,264,341,270,344,278,353,274,364,250,346,245,354,238,353,238,346"
+                            href="#" alt="Bangaluru (Rural)( ಬೆಂಗಳೂರ�? ಗ�?ರಾಮಾಂತರ )" onclick="getData('districtMap', 1503, '')" />
+                        <area shape="poly" coords="231,357,238,359,244,361,244,373,249,380,258,385,258,395,260,404,254,411,247,407,238,396,229,385,232,393"
+                            href="#" alt="Ramanagar( ರಾಮನಗರ )" onclick="getData('districtMap', 1529, '')" />
+                        <area shape="poly" coords="200,370,207,368,210,376,217,385,227,384,226,396,228,402,235,402,242,410,231,414,223,408,213,404,205,408,197,403,188,398,185,389,184,383"
+                            href="#" alt="Mandya( ಮಂಡ�?ಯ )" onclick="getData('districtMap', 1521, '')" />
+                        <area shape="poly" coords="178,397,186,404,196,410,206,415,216,408,222,414,227,420,222,424,214,430,207,431,198,432,194,442,189,444,182,446,171,442,172,416,164,412,158,409,162,403"
+                            href="#" alt="Mysuru( ಮೈಸೂರ�? )" onclick="getData('districtMap', 1522, '')" />
+                        <area shape="poly" coords="150,392,155,400,149,408,154,418,159,423,168,428,164,438,152,437,143,429,131,426,125,418,120,409,138,396"
+                            href="#" alt="Kodagu( ಕೊಡಗ�? )" onclick="getData('districtMap', 1518, '')" />
+                        <area shape="poly" coords="247,412,256,418,272,418,270,426,259,430,253,440,242,440,232,442,222,444,211,450,212,454,204,457,200,450,191,448,204,434"
+                            href="#" alt="Chamarajanagar( ಚಾಮರಾಜ ನಗರ )" onclick="getData('districtMap', 1508, '')" />
+                        <area shape="poly" coords="271,386,274,376,269,366,261,358,253,351,252,360,248,368,250,375,257,379,261,376,264,390"
+                            href="#" alt="Bangaluru( ಬೆಂಗಳೂರ�?  )" onclick="getData('districtMap', 1502, '')" />
+                        <area shape="poly" coords="218,183,207,201,189,214,176,215,170,224,156,226,146,232,136,242,134,252,138,244,146,245,156,241,164,246,164,252,169,256,176,254,188,262,196,246,192,233,201,236,203,226,212,232,224,232,227,222,220,214,216,204,226,192"
+                            href="#" alt="Ballari ( ಬಳ�?ಳಾರಿ )" onclick="getData('districtMap', 1505, '')" />
+                        <area shape="poly" coords="201,242,193,266,183,274,172,276,166,274,159,289,159,306,166,313,173,324,187,322,199,308,209,296,215,286,211,274,217,267,206,266,207,247,208,238"
+                            href="#" alt="Chitradurga( ಚಿತ�?ರದ�?ರ�?ಗ )" onclick="getData('districtMap', 1510, '')" />
+                        <area shape="poly" coords="184,264,170,258,161,252,156,245,142,248,138,254,142,262,137,268,129,270,130,280,124,287,118,293,128,296,140,290,145,300,149,309,158,306,156,286,160,277,166,270,175,271"
+                            href="#" alt="Davangere( ದಾವಣಗೆರೆ)" onclick="getData('districtMap', 1512, '')" />
+                        <area shape="poly" coords="100,333,106,327,114,324,124,316,137,314,144,310,139,299,128,302,114,299,112,290,118,284,108,276,100,268,93,264,91,274,84,273,82,279,85,287,80,292,70,288,74,296,66,296,67,304,82,310,86,320,94,322,95,332"
+                            href="#" alt="Shivamogga( ಶಿವಮೊಗ�?ಗ )" onclick="getData('districtMap', 1524, '')" />
+                        <area shape="poly" coords="140,200,142,194,151,189,140,183,132,184,122,183,116,183,114,186,108,183,106,191,118,190,124,194,122,201,120,210,116,219,116,229,122,231,130,235,136,236,142,229,146,224,142,209,137,206"
+                            href="#" alt="Gadag( ಗದಗ )" onclick="getData('districtMap', 1514, '')" />
+                        <area shape="poly" coords="198,202,186,195,178,188,175,180,161,180,153,180,143,180,156,190,151,199,146,206,149,215,154,222,164,222"
+                            href="#" alt="Koppal( ಕೊಪ�?ಪಳ )" onclick="getData('districtMap', 1520, '')" />
+                    </map>
+                    </div>
+                    <div class="midcontentbottom" style="margin-left:17px;"></div>
+                </td>
+            </tr> 
+            <tr valign="top">
+                <td style="height: 0px; text-align: center; width: 320px;">        
+                </td>
+                <td rowspan="4" valign="top" style="text-align: center; width: 320px; height:430px;">
+                    <div id="talukaMap" align="center">
+                        
+    
+<div id="ContentPlaceHolder2_div_image" style="margin-top:10px">
+        <img id="ContentPlaceHolder2_Image1" src="images/newpanchayat.png" style="height:400px;width:300px;" /></div>
+    You can check your KGSC application status by sending GSC<SPACE>YOUR GSC NO to 9212357123
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" style="width: 320px; text-align: center;" valign="top">
+                    
+                   <div class="midcontenttop">
+                                  <table id="rblSummary">
+	<tr>
+		<td><input id="rblSummary_0" type="radio" name="ctl00$rblSummary" value="1" checked="checked" /><label for="rblSummary_0">Individual</label></td><td><input id="rblSummary_1" type="radio" name="ctl00$rblSummary" value="2" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$rblSummary$1\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="rblSummary_1">Summary</label></td>
+	</tr>
+</table> 
+                                 
+                       </div>
+                        <div class="midcontentmid">
+                                <table id="rdLang">
+	<tr>
+		<td><input id="rdLang_0" type="radio" name="ctl00$rdLang" value="kn-IN" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$rdLang$0\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="rdLang_0">Kannada</label></td><td><input id="rdLang_1" type="radio" name="ctl00$rdLang" value="en-US" checked="checked" /><label for="rdLang_1">English</label></td>
+	</tr>
+</table>
+             <hr class="hrcss" />
+                    <div id="districtMap" align="center">
+                        
+    
+
+<script language="javascript"type="text/javascript">
+
+function getData(context, distCode, talCode)
+{
+	window.location=  "displayDistTal.aspx?context="+context+"&distCode="+distCode+"&talCode="+talCode;
+}
+
+</script>
+
+
+<div><b><span style="font-size: 10pt"><span id="ContentPlaceHolder1_lbl01">Please click on the District Map to view Talukwise Panchayat list</span></b></div>
+<hr class="hrcss" /> <div style="vertical-align:top; top:0px; height:320px"> 
+
+ 
+<!--
+
+
+
+
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </div> -->
+ <div id="ContentPlaceHolder1_divTK" align="center">
+<div class="midcontenttop" style="margin-top:10px">
+<span style="font-size: 12pt"><span id="ContentPlaceHolder1_Label1"></span> </span></div>
+ <div class="midcontentmid" style="height:330px;overflow-x:hidden">
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  	<tr>
+    <td bgcolor="#1778a" class="style5" style="height: 18px">District</td>
+    <td bgcolor="#1778a" class="style7" style="height: 18px">BIDAR</td>
+  </tr>
+  <tr><td bgcolor="#1778a" class="style5" style="height: 18px">ತಾಲೂಕಾ</td>
+  <td bgcolor="#1778a" class="style5" style="height: 18px">(Taluka)</td>
+</tr>
+</table> 
+    <div id="ContentPlaceHolder1_Panel2" style="border-color:Transparent;width:310px;overflow:auto;overflow-x: hidden;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder1_dgTK" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?tk=1506001&tkname=AURAD>ಔರಾದ (AURAD)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?tk=1506002&tkname=BASAVAKALYAN>ಬಸವಕಲ�?ಯಾಣ (BASAVAKALYAN)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?tk=1506003&tkname=BHALKI>ಭಾಲ�?ಕಿ (BHALKI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?tk=1506004&tkname=BIDAR>ಬೀದರ (BIDAR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?tk=1506008&tkname=CHITAGUPPA>ಚಿಟ�?ಟಗ�?ಪ�?ಪ (CHITAGUPPA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?tk=1506007&tkname=HULSOOR>ಹ�?ಲಸೂರ�? (HULSOOR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?tk=1506005&tkname=HUMNABAD>ಹ�?ಮನಾಬಾದ (HUMNABAD)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?tk=1506006&tkname=KAMALNAGAR>ಕಮಲನಗರ (KAMALNAGAR)</a></td>
+		</tr>
+	</table>
+    
+</div>
+</div>
+  <div class="midcontentbottom" ></div>    
+  </div>
+
+                    </div>
+                    </div>
+                    <div class="midcontentbottom"></div>
+                </td>
+            </tr>
+           
+        </table>
+        </div>
+        
+         <div class="footer_gp" >
+
+  <table width="960px" align="center" class="footer_table">
+ <tr height="10px"><td></td><td></td></tr>
+    <tr><td style="text-align: left;"><span id="Label1">Visitor No </span>  <span id="lblCounter">45298386</span> </td>
+  <td  style="text-align: right;">Copyright &copy; 2015 National Informatics Centre, Karnataka</td>
+  </tr></table>
+        
+           </div>
+    </form>
+</body>
+</html>

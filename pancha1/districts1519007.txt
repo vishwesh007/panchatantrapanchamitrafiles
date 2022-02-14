@@ -1,0 +1,77 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007040&gpname=AMMANALLUR>ಅಮ�?ಮನಲ�?ಲೂರ�? (AMMANALLUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007037&gpname=ANNENAHALLI>ಅಣ�?ಣೇನಹಳ�?ಳಿ (ANNENAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007002&gpname=ARABHIKOTHANUR>ಅರಾಭಿಕೋತ�?ತನೂರ�? (ARABHIKOTHANUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007004&gpname=ARAHALLI>ಅರಹಳ�?ಳಿ (ARAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007008&gpname=BEGLIHOSAHALLI>ಬೆಗ�?ಲಿಹೊಸಹಳ�?ಳಿ (BEGLIHOSAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007020&gpname=BELAMARANAHALLI>ಬೆಳಮಾರನಹಳ�?ಳಿ (BELAMARANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007009&gpname=BELLUR>ಬೆಳ�?ಳೂರ�? (BELLUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007013&gpname=CHANNASANDRA>ಚನ�?ನಸಂದ�?ರ (CHANNASANDRA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007014&gpname=CHOWDADENAHALLI>ಚೌಡದೇನಹಳ�?ಳಿ (CHOWDADENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007012&gpname=DODDAHASALA>ದೊಡ�?ಡಹಸಾಳ (DODDAHASALA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007005&gpname=HARATI>ಹರಟಿ (HARATI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007036&gpname=HOLUR>ಹೋಳೂರ�? (HOLUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007010&gpname=HONNENAHALLI>ಹೊನ�?ನೇನಹಳ�?ಳಿ (HONNENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007011&gpname=HUTTUR>ಹ�?ತ�?ತೂರ�? (HUTTUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007001&gpname=ITHRASANAHALLY>ಇತರಸನಹಳ�?ಳಿ (ITHRASANAHALLY)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007033&gpname=JANNAGATTA>ಜನಘಟ�?ಟ (JANNAGATTA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007034&gpname=KONDARAJANAHALLI>ಕೊಂಡರಾಜನಹಳ�?ಳಿ (KONDARAJANAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007023&gpname=KURUGAL>ಕ�?ರ�?ಗಲ�?‌ (KURUGAL)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007024&gpname=KYALANUR>ಕ�?ಯಾಲ�?‌ನೂರ�? (KYALANUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007028&gpname=MADANAHALLI>ಮದನಹಳ�?ಳಿ (MADANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007025&gpname=MADDERI>ಮದ�?ದೇರಿ (MADDERI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007018&gpname=MARJENAHALLI>ಮಾಜೇಱನಹಳ�?ಳಿ (MARJENAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007017&gpname=MUDAVADI>ಮ�?ದವಾಡಿ (MUDAVADI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007038&gpname=MUDUVATHI>ಮ�?ದ�?ವತ�?ತಿ (MUDUVATHI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007019&gpname=NARASAPURA>ನರಸಾಪ�?ರ (NARASAPURA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007026&gpname=SEETHI>ಸೀತಿ (SEETHI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007021&gpname=SETTIHALLI>ಶೆಟ�?ಟಿಹಳ�?ಳಿ (SETTIHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007006&gpname=SHAPURU>ಶಾಪೂರ (SHAPURU)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007016&gpname=SOOLUR>ಸೂಲೂರ�? (SOOLUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007022&gpname=SUGATUR>ಸ�?ಗಟೂರ�? (SUGATUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007027&gpname=THORADEVANDAHALLI>ತೊರದೇವಂಡಹಳ�?ಳಿ (THORADEVANDAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007029&gpname=THOTLI>ತೊಟ�?ಲಿ (THOTLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007031&gpname=URAGALI>ಉರಿಗಿಲಿ (URAGALI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007007&gpname=VADAGURU>ವಡಗೂರ�? (VADAGURU)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519007032&gpname=VEMGAL>ವೇಮಗಲ�?‌ (VEMGAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519007030&gpname=VOKKALERI>ವಕ�?ಕಲೇರಿ (VOKKALERI)</a></td>
+		</tr>
+	

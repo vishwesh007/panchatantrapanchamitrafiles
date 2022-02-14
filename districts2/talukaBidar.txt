@@ -1,0 +1,16 @@
+
+			tk=1506001&tkname=AURAD>ಔರಾದ (AURAD)
+	
+			tk=1506002&tkname=BASAVAKALYAN>ಬಸವಕಲ�?ಯಾಣ (BASAVAKALYAN)
+	
+			tk=1506003&tkname=BHALKI>ಭಾಲ�?ಕಿ (BHALKI)
+	
+			tk=1506004&tkname=BIDAR>ಬೀದರ (BIDAR)
+	
+			tk=1506008&tkname=CHITAGUPPA>ಚಿಟ�?ಟಗ�?ಪ�?ಪ (CHITAGUPPA)
+	
+			tk=1506007&tkname=HULSOOR>ಹ�?ಲಸೂರ�? (HULSOOR)
+	
+			tk=1506005&tkname=HUMNABAD>ಹ�?ಮನಾಬಾದ (HUMNABAD)
+	
+			tk=1506006&tkname=KAMALNAGAR>ಕಮಲನಗರ (KAMALNAGAR)</a></td

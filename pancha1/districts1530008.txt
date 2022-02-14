@@ -1,0 +1,53 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008002&gpname=ANABI>ಅಣಬಿ (ANABI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008038&gpname=BEERANURA>ಬೀರನೂರ (BEERANURA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008015&gpname=CHAMANAL>ಚಾಮನಾಳ (CHAMANAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008008&gpname=CHATNALLI>ಚಟ�?ನಳ�?ಳಿ (CHATNALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008011&gpname=DOHARNALLI>ದೋರನಹಳ�?ಳಿ (DOHARNALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008018&gpname=GOGI(K)>ಗೋಗಿ (ಕೆ) (GOGI(K))</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008020&gpname=GOGIPETH>ಗೋಗಿ ಪೇಠ (GOGIPETH)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008036&gpname=HATTIGUDUR>ಹತ�?ತಿಗೂಡ�?ರ (HATTIGUDUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008005&gpname=HOSAKERA>ಹೊಸಕೇರಾ (HOSAKERA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008017&gpname=HOTPET>ಹೋತಪೇಟ (HOTPET)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008040&gpname=HURASAGUNDAGI>ಹ�?ರಸಗ�?ಂಡಗಿ (HURASAGUNDAGI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008035&gpname=IBRAHIMPUR>ಇಬ�?ರಾಹಿಂಪೂರ (IBRAHIMPUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008031&gpname=KAKKASGERA>ಕಕ�?ಕಸಗೇರಾ (KAKKASGERA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008012&gpname=KANNEKOLLUR>ಕನ�?ಯಕೋಳೂರ (KANNEKOLLUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008022&gpname=KHANAPUR>ಖಾನಾಪೂರ (KHANAPUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008014&gpname=KOLLUR(M)>ಕೊಳ�?ಳೂರ (ಎಂ) (KOLLUR(M))</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008024&gpname=MADRAKI>ಮದ�?ರಿಕಿ (MADRAKI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008003&gpname=MUDBOOL>ಮ�?ಡಬೂಳ (MUDBOOL)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008007&gpname=NAGANATAGI>ನಾಗನಟಗಿ (NAGANATAGI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008029&gpname=RUSTAPUR>ರಸ�?ತಾಪೂರ (RUSTAPUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008021&gpname=SAGAR(B)>ಸಗರ (ಬಿ) (SAGAR(B))</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008025&gpname=SHIRVAL>ಶಿರವಾಳ (SHIRVAL)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1530008023&gpname=UKKINAL>ಉಕ�?ಕಿನಾಳ (UKKINAL)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1530008010&gpname=VANADURGA>ವನದ�?ರ�?ಗಾ (VANADURGA)</a></td>
+		</tr>
+	

@@ -1,0 +1,47 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002001&gpname=ALAMBADIJOTHENAHALLI>ಆಲಂಬಡಿ ಜೊತೇನಹಳ�?ಳಿ (ALAMBADIJOTHENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002020&gpname=BALAMANDE>ಬಲಮಂದೆ (BALAMANDE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002019&gpname=BOODIKOTE>ಬೂದಿಕೋಟೆ (BOODIKOTE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002021&gpname=CHIKKAANKANDAHALLI>ಚಿಕ�?ಕಅಂಕಂಡಹಳ�?ಳಿ (CHIKKAANKANDAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002045&gpname=CHINNAKOTE>ಚಿನ�?ನಕೋಟೆ (CHINNAKOTE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002040&gpname=DHONIMADAGU>ದೋಣಿಮಡಗ�? (DHONIMADAGU)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002003&gpname=DODDAVALAGAMADI>ದೊಡ�?ಡವಲಗಮಾದಿ (DODDAVALAGAMADI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002042&gpname=DODDURUKARAPANAHALLI>ದೊಡ�?ಡೂರ�?ಕರಪನಹಳ�?ಳಿ (DODDURUKARAPANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002016&gpname=GULLAHALLI>ಗ�?ಲ�?ಲಹಳ�?ಳಿ (GULLAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002023&gpname=HULIBELE>ಹ�?ಲಿಬೆಲೆ (HULIBELE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002007&gpname=HUNKUNDA>ಹ�?ನ�?ಕ�?ಂದ (HUNKUNDA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002043&gpname=IYNORAHOSAHALLI>�?ನೋರಹೊಸಹಳ�?ಳಿ (IYNORAHOSAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002041&gpname=KAMASAMUDRA>ಕಾಮಸಮ�?ದ�?ರ (KAMASAMUDRA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002008&gpname=KARAHALLI>ಕಾರಹಳ�?ಳಿ (KARAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002044&gpname=KESARANAHALLI>ಕೆಸರನಹಳ�?ಳಿ (KESARANAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002005&gpname=KETHAGANAHALLI>ಕೇತಗಾನಹಳ�?ಳಿ (KETHAGANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002028&gpname=MAGONDI>ಮಾಗೊಂದಿ (MAGONDI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002012&gpname=MAVAHALLI>ಮಾವಹಳ�?ಳಿ (MAVAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002011&gpname=SOOLIKUNTE>ಸೂಲಿಕ�?ಂಟೆ (SOOLIKUNTE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519002004&gpname=THOPPANAHALLI>ತೊಪ�?ಪನಹಳ�?ಳಿ (THOPPANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519002015&gpname=YALESANDRA>ಯಳೇಸಂದ�?ರ (YALESANDRA)</a></td>
+		</tr>
+	

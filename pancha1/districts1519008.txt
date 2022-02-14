@@ -1,0 +1,61 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008013&gpname=ABBENAHALLI>ಅಬ�?ಬೇನಹಳ�?ಳಿ (ABBENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008020&gpname=ARALERI>ಅರಳೇರಿ (ARALERI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008026&gpname=BALIGANAHALLI>ಬಾಳಿಗಾನಹಳ�?ಳಿ (BALIGANAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008005&gpname=BANAHALLI>ಬನಹಳ�?ಳಿ (BANAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008009&gpname=CHIKKAKUNTHUR>ಚಿಕ�?ಕಕ�?ಂತೂರ�? (CHIKKAKUNTHUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008021&gpname=CHIKKATHIRUPATHI>ಚಿಕ�?ಕತಿರ�?ಪತಿ (CHIKKATHIRUPATHI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008012&gpname=D.N.DODDI>ಡಿ.ಎನ�?‌. ದೊಡ�?ಡಿ (D.N.DODDI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008015&gpname=DINNEHALLI>ದಿನ�?ನೆಹಳ�?ಳಿ (DINNEHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008025&gpname=DODDASHIVARA>ದೊಡ�?ಡಶಿವಾರ (DODDASHIVARA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008014&gpname=HASANDAHALLI>ಹಸಾಂಡಹಳ�?ಳಿ (HASANDAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008010&gpname=HULADENAHALLI>ಹ�?ಳದೇನಹಳ�?ಳಿ (HULADENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008029&gpname=HULIMANGALAHOSAKOTE>ಹ�?ಲಿಮಂಗಲ ಹೊಸಕೋಟೆ (HULIMANGALAHOSAKOTE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008022&gpname=HUNGENAHALLI>ಹ�?ಂಗೇನಹಳ�?ಳಿ (HUNGENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008001&gpname=JAYAMANGALA>ಜಯಮಂಗಲ (JAYAMANGALA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008011&gpname=K.G.HALLI>ಕೆ.ಜಿ.ಹಳ�?ಳಿ (K.G.HALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008016&gpname=KONDASETTIHALLI>ಕೊಂಡಶೆಟ�?ಟಿಹಳ�?ಳಿ (KONDASETTIHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008019&gpname=KUDIYANUR>ಕ�?ಡಿಯನೂರ�? (KUDIYANUR)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008017&gpname=LAKKUR>ಲಕ�?ಕೂರ�? (LAKKUR)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008024&gpname=MADIVALA>ಮಡಿವಾಳ (MADIVALA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008028&gpname=MASTI>ಮಾಸ�?ತಿ (MASTI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008027&gpname=NOSAGERE>ನೊಸಗೆರೆ (NOSAGERE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008003&gpname=NUTAVE>ನೂಟವೆ (NUTAVE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008030&gpname=RAJENAHALLI>ರಾಜೇನಹಳ�?ಳಿ (RAJENAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008004&gpname=SANTEHALLI>ಸಂತೇಹಳ�?ಳಿ (SANTEHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008007&gpname=SHIVARAPATNA>ಶಿವಾರಪಟ�?ಟಣ (SHIVARAPATNA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008002&gpname=TAKEL>ಟೇಕಲ�? (TAKEL)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1519008018&gpname=THORNAHALLI>ತೊರ�?ನಹಳ�?ಳಿ (THORNAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1519008006&gpname=TRUNASI>ತ�?ಯಣಸಿ (TRUNASI)</a></td>
+		</tr>
+	

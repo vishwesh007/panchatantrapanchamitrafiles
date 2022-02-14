@@ -1,0 +1,540 @@
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOLhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOL
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHADABIBI LALASAB BADIGER</td><td>02 ward</td><td>Female</td><td>&nbsp;</td><td>President</td><td>08/02/2021</td><td>9686</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEV BHIMASHASHAKAR JIRARAKALAGI</td><td>03 Ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9945398280</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GURUSHAT KARABASAPPA KUUBAR</td><td>02 ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9663218872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHEKHADAR WKATESH WASASAT</td><td>01 ward</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9902103111</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOUTAMABUDHA JAGADEW KATTIMANI</td><td>05 Ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9740517196</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PARASHURAM SHIWASHASHAKAR KATTIMANI</td><td>02 ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9591876426</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOLhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOL
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHADABIBI LALASAB BADIGER</td><td>02 ward</td><td>Female</td><td>&nbsp;</td><td>President</td><td>08/02/2021</td><td>9686</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEV BHIMASHASHAKAR JIRARAKALAGI</td><td>03 Ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9945398280</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GURUSHAT KARABASAPPA KUUBAR</td><td>02 ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9663218872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHEKHADAR WKATESH WASASAT</td><td>01 ward</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9902103111</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOUTAMABUDHA JAGADEW KATTIMANI</td><td>05 Ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9740517196</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PARASHURAM SHIWASHASHAKAR KATTIMANI</td><td>02 ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9591876426</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003001&gpname=D.NIMBARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003001&gpname=D.NIMBARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Village_Code</th><th scope="col">Village_Name</th><th scope="col">Village_Name_eng</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013001</td><td>ಯರಲಕಟ�?ಟೆ</td><td>YARALAKATTE</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013002</td><td>ಸೊಕ�?ಕೆ</td><td>SOKKE</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013003</td><td>ಚಿಕ�?ಕಬಂಟನಹಳ�?ಳಿ</td><td>CHIKKABANTANAHALLI</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013004</td><td>ಗೋಪಾಲಪ�?ರ</td><td>GOPALAPURA</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003035&gpname=DHULAKHEDhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003035&gpname=DHULAKHED
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHRIMATI PARWATI PARAMESWAR GUMAT</td><td>BLAOCK  NO 05</td><td>Female</td><td>General</td><td>President</td><td>06/02/2021</td><td>9665607129</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MADEVI R AIHOLE</td><td>BLAOCK  NO 08</td><td>Female</td><td>SC</td><td>Vice President</td><td>31/12/2020</td><td>9741547668</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PRAKASH YEGAPPA IRASUR</td><td>BLAOCK  NO 05</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9743850978</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DILEEP SANGAPPA SHIVASHARAN</td><td>BLAOCK  NO 04</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9008443715</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHREEDEVI RAJAKUMAR KALE</td><td>BLAOCK  NO 04</td><td>Female</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9980270096</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAGHAVEEDRA PANDURANG WALIKAR</td><td>BLAOCK  NO 05</td><td>Male</td><td>Others</td><td>Member</td><td>31/12/2020</td><td>9096576620</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003015&gpname=HALASANGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003015&gpname=HALASANGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SUVARNA KASHINATH TALAKERI</td><td>ward No 7</td><td>Male</td><td>SC</td><td>President</td><td>22/02/2021</td><td>9845694261</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ANIL BHIMASHYA BOLAGONDI</td><td>ward No 2</td><td>Male</td><td>General</td><td>Member</td><td>22/02/2021</td><td>9740526856</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SATISH NIIGAPPA NAKALLI</td><td>ward No 7</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9611372247</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAJENDRA REVANASIDDAPPA KALYANASHETTI</td><td>Ward No 04</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9916604508</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MUSKALI DADESAB SIGANALLI</td><td>Ward No 06</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9972436367</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAMACHACHADRA ARJUN GAJAKOSH</td><td>Ward No01</td><td>Male</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9900146258</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SUNITA SURESH TALAKERI</td><td>Ward No05</td><td>Female</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9901323223</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MALLAMMA BHIMASHANKAR KOTTALAGI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9880271161</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAKUBAI NATOBA JADHAV</td><td>Ward No 05</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>8970528083</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>NILAVVA NIGAPPA JATTI</td><td>ward No 2</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>8317353929</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>IRFAN KHAJESAB PATEL</td><td>WARDNO 8</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>7760601020</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAVITA URF SAVITRI MALLU RATHOD</td><td>WARDNO 8</td><td>Female</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9380506239</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHIVRAY SHRISHAIL BHATAGUNAKI</td><td>WARDNO 8</td><td>Male</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9902431244</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JATTEPPA DYAVPPA TALAWAR</td><td>Ward No01</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9845313246</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003038&gpname=HATTALLIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003038&gpname=HATTALLI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KALLAPPA BHIMASHASHAKAR UTAGI</td><td>06Havinal</td><td>Male</td><td>General</td><td>President</td><td>30/12/2020</td><td>9665069999</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003027&gpname=INCHAGERIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003027&gpname=INCHAGERI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Somashekhar K S</td><td>Kadepalya </td><td>Male</td><td>General</td><td>President</td><td>01/04/2021</td><td>9449288912</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAGAGAMMA</td><td>Kittadakuppe </td><td>Female</td><td>SC</td><td>Vice President</td><td>30/12/2020</td><td>9686953569</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>UMADEVI</td><td>Chikkonahalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9241808027</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAYITRI B</td><td>Thorehalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9481211689</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOWRAMMA</td><td>Hodaluru </td><td>Male</td><td>SC</td><td>Member</td><td>20/12/2021</td><td>8073279801</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Srinivas</td><td>Herur </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980227013</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RADHAMANI DI AR</td><td>Herur </td><td>Male</td><td>Others</td><td>Member</td><td>20/12/2020</td><td>9008507454</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAIYAD JILANI</td><td>Herur </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980233872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RADHA</td><td>Chikkonahalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9916190972</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JAYANNA</td><td>Chikkonahalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9901275205</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>shonha B L</td><td>Naduvalpalya </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9844733370</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RENUKAPPA</td><td>Naduvalpalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9663591555</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Pavana H N</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>8131372583</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Venkatesh K M</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9845605652</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Ramesh</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980264946</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Ravish</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9742314576</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BALKAS BANU</td><td>Kittadakuppe </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9902797260</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BASAVARAJAMMA</td><td>Hodaluru </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9880111948</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHIVAPPA H G</td><td>Hodaluru </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9845567177</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MANAGALAMMA</td><td>Thorehalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9632260173</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PANDURANGAPPA</td><td>Thorehalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9164542355</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003039&gpname=JIGAJIVANAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003039&gpname=JIGAJIVANAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAVITRI GURUBASAPPA MUCHCHACHADI</td><td>Ward 01</td><td>Female</td><td>&nbsp;</td><td>President</td><td>31/12/2020</td><td>9019824530</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003019&gpname=LONIBKhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003019&gpname=LONIBK
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BHARATI NINGOND ELAGI</td><td>Ward No 06</td><td>Female</td><td>General</td><td>President</td><td>08/02/2021</td><td>9741174365</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHAHARABANU PHARIRAMAHMAD SHEKH</td><td>Ward No 07</td><td>Female</td><td>&nbsp;</td><td>Vice President</td><td>08/02/2021</td><td>9741202076</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MALLAPPA LAYAPPA METRI</td><td>Ward No 08 </td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9632059722</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>AAJANA BASAWARAJ RAGAT</td><td>Ward No 08 </td><td>Female</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>7620063001</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DILLADAR HUSENI MULLA</td><td>Ward No 05</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7899141785</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAJANANAD RAMANA BANASOD</td><td>Ward No 05</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9901852129</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>WITHOBA ABHIMANYU JITTI</td><td>Ward No 03</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9731088518</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SIDALIIGAGOUD KALLANAGOUD PATIL</td><td>Ward No 04</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9972430668</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>IIDRABAYI APPANA WADAR</td><td>Ward No 02</td><td>Female</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9731905570</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ROSHANABI HUSENASAB SHEKHAJI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9740466156</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAWITRI SHRIMAMAT PUJARI</td><td>Ward No 01</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9900839699</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEWI DAYANANAD METRI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9972917583</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>REKHA SHIWANIIGAPPA MADIWAL</td><td>Ward No 05</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9900727961</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JTTPPA BHIMANA MALABAGI</td><td>Ward No 02</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7204582142</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KASTURIBAYI GURULIIGAPPA MALABAGI</td><td>Ward No 02</td><td>Female</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9743798554</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RENUKA SIDARAM SHIWANAGI</td><td>Ward No 03</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9743857144</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DUUDAPPA RAMANA KHALAT</td><td>Ward No 07</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7259169796</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003045&gpname=NANDARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003045&gpname=NANDARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>APPARAYA CHANDRASHEKHAR PATIL</td><td>04 Ward</td><td>Male</td><td>General</td><td>President</td><td>04/02/2022</td><td>7975050948</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAGANAGOUD MARALIIGAPPAGOUD PATIL</td><td>02 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>7022055603</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PRABHAKARAGOUD SIDRAMAYA PATIL</td><td>03 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>9632800168</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>NAVIN MALLESHI BIDARI</td><td>01 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>8105450619</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHITAWWA PARAGONDA BAJAJATRI</td><td>01 Ward</td><td>Female</td><td>SC</td><td>Member</td><td>04/02/2021</td><td>9535586089</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHANDRAKANT PUNDALIK NANDAGOND</td><td>04 Ward</td><td>Male</td><td>Others</td><td>Member</td><td>04/02/2021</td><td>6361553314</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003003&gpname=NIVARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003003&gpname=NIVARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>HIRAGANA WITHTHAL PUJARI</td><td>Nivaragi Ward No-1</td><td>Male</td><td>General</td><td>President</td><td>31/12/2020</td><td>9902231085</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>TAMMARAY SHRISHAIL TELI</td><td>Nivaragi ward No-02</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>9972259122</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SASAJIW RAMACHACHADRA DADEKAR</td><td>Nivaragi ward No-4</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9686711108</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHRIMAMAT SHIDAGD CHIKKALAKI</td><td>Nivaragi ward No-3</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>8970827515</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KASHINATH BASALIIGAPPA SASAKH</td><td>Nivaragi ward No-4</td><td>Male</td><td>Others</td><td>Member</td><td>31/12/2020</td><td>9901860809</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003011&gpname=REVATGAONhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003011&gpname=REVATGAON
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEWI SOMANA AIHOLLI</td><td>Ward No 04 Dasur</td><td>Female</td><td>SC</td><td>President</td><td>31/12/2020</td><td>8971432924</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHAKIRABEGAN JAWED WALIKAR</td><td>Ward No 03 Umaraj</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>8884722501</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GANESH RAMACHACHADRA WALIKAR</td><td>Ward No 01 Umaraj</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>8722671947</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003004&gpname=UMARANIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003004&gpname=UMARANI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SOMANIIG AMAGD AIHLLI</td><td>Kerur Ward no 1</td><td>Male</td><td>SC</td><td>President</td><td>31/12/2020</td><td>8970286259</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ARABAJ ABUSHAKIR PATIL</td><td>Takali Ward No 7</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>7204448465</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PAPACHAKSHARI SAYABANA LAWAT</td><td>Takali Ward No 7</td><td>Male</td><td>General</td><td>Member</td><td>30/12/2020</td><td>6363602880</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHOBHA RUDRAPPA AIHLLI</td><td>Ward No 8</td><td>Female</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>8495804969</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAJEEDRA SASAGANA UUBARAJ</td><td>Kerur Ward no 1</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>9731500071</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/entPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;"https://panchatantra.kar.nic.in/panchamitra/entPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;"error
+GRAM PANCHAYAT
+
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOLhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOL
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHADABIBI LALASAB BADIGER</td><td>02 ward</td><td>Female</td><td>&nbsp;</td><td>President</td><td>08/02/2021</td><td>9686</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEV BHIMASHASHAKAR JIRARAKALAGI</td><td>03 Ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9945398280</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GURUSHAT KARABASAPPA KUUBAR</td><td>02 ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9663218872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHEKHADAR WKATESH WASASAT</td><td>01 ward</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9902103111</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOUTAMABUDHA JAGADEW KATTIMANI</td><td>05 Ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9740517196</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PARASHURAM SHIWASHASHAKAR KATTIMANI</td><td>02 ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9591876426</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOLhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003046&gpname=BARADOL
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHADABIBI LALASAB BADIGER</td><td>02 ward</td><td>Female</td><td>&nbsp;</td><td>President</td><td>08/02/2021</td><td>9686</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEV BHIMASHASHAKAR JIRARAKALAGI</td><td>03 Ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9945398280</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GURUSHAT KARABASAPPA KUUBAR</td><td>02 ward</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9663218872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHEKHADAR WKATESH WASASAT</td><td>01 ward</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9902103111</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOUTAMABUDHA JAGADEW KATTIMANI</td><td>05 Ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9740517196</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PARASHURAM SHIWASHASHAKAR KATTIMANI</td><td>02 ward</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9591876426</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003001&gpname=D.NIMBARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003001&gpname=D.NIMBARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Village_Code</th><th scope="col">Village_Name</th><th scope="col">Village_Name_eng</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013001</td><td>ಯರಲಕಟ�?ಟೆ</td><td>YARALAKATTE</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013002</td><td>ಸೊಕ�?ಕೆ</td><td>SOKKE</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013003</td><td>ಚಿಕ�?ಕಬಂಟನಹಳ�?ಳಿ</td><td>CHIKKABANTANAHALLI</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>1512006013004</td><td>ಗೋಪಾಲಪ�?ರ</td><td>GOPALAPURA</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003035&gpname=DHULAKHEDhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003035&gpname=DHULAKHED
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHRIMATI PARWATI PARAMESWAR GUMAT</td><td>BLAOCK  NO 05</td><td>Female</td><td>General</td><td>President</td><td>06/02/2021</td><td>9665607129</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MADEVI R AIHOLE</td><td>BLAOCK  NO 08</td><td>Female</td><td>SC</td><td>Vice President</td><td>31/12/2020</td><td>9741547668</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PRAKASH YEGAPPA IRASUR</td><td>BLAOCK  NO 05</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9743850978</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DILEEP SANGAPPA SHIVASHARAN</td><td>BLAOCK  NO 04</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9008443715</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHREEDEVI RAJAKUMAR KALE</td><td>BLAOCK  NO 04</td><td>Female</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9980270096</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAGHAVEEDRA PANDURANG WALIKAR</td><td>BLAOCK  NO 05</td><td>Male</td><td>Others</td><td>Member</td><td>31/12/2020</td><td>9096576620</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003015&gpname=HALASANGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003015&gpname=HALASANGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SUVARNA KASHINATH TALAKERI</td><td>ward No 7</td><td>Male</td><td>SC</td><td>President</td><td>22/02/2021</td><td>9845694261</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ANIL BHIMASHYA BOLAGONDI</td><td>ward No 2</td><td>Male</td><td>General</td><td>Member</td><td>22/02/2021</td><td>9740526856</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SATISH NIIGAPPA NAKALLI</td><td>ward No 7</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9611372247</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAJENDRA REVANASIDDAPPA KALYANASHETTI</td><td>Ward No 04</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9916604508</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MUSKALI DADESAB SIGANALLI</td><td>Ward No 06</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9972436367</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAMACHACHADRA ARJUN GAJAKOSH</td><td>Ward No01</td><td>Male</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9900146258</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SUNITA SURESH TALAKERI</td><td>Ward No05</td><td>Female</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9901323223</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MALLAMMA BHIMASHANKAR KOTTALAGI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9880271161</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAKUBAI NATOBA JADHAV</td><td>Ward No 05</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>8970528083</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>NILAVVA NIGAPPA JATTI</td><td>ward No 2</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>8317353929</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>IRFAN KHAJESAB PATEL</td><td>WARDNO 8</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>7760601020</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAVITA URF SAVITRI MALLU RATHOD</td><td>WARDNO 8</td><td>Female</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9380506239</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHIVRAY SHRISHAIL BHATAGUNAKI</td><td>WARDNO 8</td><td>Male</td><td>SC</td><td>Member</td><td>22/02/2021</td><td>9902431244</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JATTEPPA DYAVPPA TALAWAR</td><td>Ward No01</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>22/02/2021</td><td>9845313246</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003038&gpname=HATTALLIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003038&gpname=HATTALLI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KALLAPPA BHIMASHASHAKAR UTAGI</td><td>06Havinal</td><td>Male</td><td>General</td><td>President</td><td>30/12/2020</td><td>9665069999</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003027&gpname=INCHAGERIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003027&gpname=INCHAGERI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Somashekhar K S</td><td>Kadepalya </td><td>Male</td><td>General</td><td>President</td><td>01/04/2021</td><td>9449288912</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAGAGAMMA</td><td>Kittadakuppe </td><td>Female</td><td>SC</td><td>Vice President</td><td>30/12/2020</td><td>9686953569</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>UMADEVI</td><td>Chikkonahalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9241808027</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAYITRI B</td><td>Thorehalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9481211689</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GOWRAMMA</td><td>Hodaluru </td><td>Male</td><td>SC</td><td>Member</td><td>20/12/2021</td><td>8073279801</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Srinivas</td><td>Herur </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980227013</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RADHAMANI DI AR</td><td>Herur </td><td>Male</td><td>Others</td><td>Member</td><td>20/12/2020</td><td>9008507454</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAIYAD JILANI</td><td>Herur </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980233872</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RADHA</td><td>Chikkonahalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9916190972</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JAYANNA</td><td>Chikkonahalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9901275205</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>shonha B L</td><td>Naduvalpalya </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9844733370</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RENUKAPPA</td><td>Naduvalpalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9663591555</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Pavana H N</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>8131372583</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Venkatesh K M</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9845605652</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Ramesh</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9980264946</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>Ravish</td><td>Kadepalya </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9742314576</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BALKAS BANU</td><td>Kittadakuppe </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9902797260</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BASAVARAJAMMA</td><td>Hodaluru </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9880111948</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHIVAPPA H G</td><td>Hodaluru </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2021</td><td>9845567177</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MANAGALAMMA</td><td>Thorehalli </td><td>Female</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9632260173</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PANDURANGAPPA</td><td>Thorehalli </td><td>Male</td><td>General</td><td>Member</td><td>20/12/2020</td><td>9164542355</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003039&gpname=JIGAJIVANAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003039&gpname=JIGAJIVANAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAVITRI GURUBASAPPA MUCHCHACHADI</td><td>Ward 01</td><td>Female</td><td>&nbsp;</td><td>President</td><td>31/12/2020</td><td>9019824530</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003019&gpname=LONIBKhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003019&gpname=LONIBK
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>BHARATI NINGOND ELAGI</td><td>Ward No 06</td><td>Female</td><td>General</td><td>President</td><td>08/02/2021</td><td>9741174365</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHAHARABANU PHARIRAMAHMAD SHEKH</td><td>Ward No 07</td><td>Female</td><td>&nbsp;</td><td>Vice President</td><td>08/02/2021</td><td>9741202076</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MALLAPPA LAYAPPA METRI</td><td>Ward No 08 </td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9632059722</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>AAJANA BASAWARAJ RAGAT</td><td>Ward No 08 </td><td>Female</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>7620063001</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DILLADAR HUSENI MULLA</td><td>Ward No 05</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7899141785</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GAJANANAD RAMANA BANASOD</td><td>Ward No 05</td><td>Male</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9901852129</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>WITHOBA ABHIMANYU JITTI</td><td>Ward No 03</td><td>Male</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9731088518</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SIDALIIGAGOUD KALLANAGOUD PATIL</td><td>Ward No 04</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9972430668</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>IIDRABAYI APPANA WADAR</td><td>Ward No 02</td><td>Female</td><td>SC</td><td>Member</td><td>08/02/2021</td><td>9731905570</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ROSHANABI HUSENASAB SHEKHAJI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9740466156</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAWITRI SHRIMAMAT PUJARI</td><td>Ward No 01</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9900839699</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEWI DAYANANAD METRI</td><td>Ward No 04</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9972917583</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>REKHA SHIWANIIGAPPA MADIWAL</td><td>Ward No 05</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9900727961</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>JTTPPA BHIMANA MALABAGI</td><td>Ward No 02</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7204582142</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KASTURIBAYI GURULIIGAPPA MALABAGI</td><td>Ward No 02</td><td>Female</td><td>General</td><td>Member</td><td>08/02/2021</td><td>9743798554</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RENUKA SIDARAM SHIWANAGI</td><td>Ward No 03</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>9743857144</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>DUUDAPPA RAMANA KHALAT</td><td>Ward No 07</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>08/02/2021</td><td>7259169796</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003045&gpname=NANDARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003045&gpname=NANDARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>APPARAYA CHANDRASHEKHAR PATIL</td><td>04 Ward</td><td>Male</td><td>General</td><td>President</td><td>04/02/2022</td><td>7975050948</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SAGANAGOUD MARALIIGAPPAGOUD PATIL</td><td>02 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>7022055603</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PRABHAKARAGOUD SIDRAMAYA PATIL</td><td>03 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>9632800168</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>NAVIN MALLESHI BIDARI</td><td>01 Ward</td><td>Male</td><td>General</td><td>Member</td><td>04/02/2021</td><td>8105450619</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHITAWWA PARAGONDA BAJAJATRI</td><td>01 Ward</td><td>Female</td><td>SC</td><td>Member</td><td>04/02/2021</td><td>9535586089</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>CHANDRAKANT PUNDALIK NANDAGOND</td><td>04 Ward</td><td>Male</td><td>Others</td><td>Member</td><td>04/02/2021</td><td>6361553314</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003003&gpname=NIVARAGIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003003&gpname=NIVARAGI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>HIRAGANA WITHTHAL PUJARI</td><td>Nivaragi Ward No-1</td><td>Male</td><td>General</td><td>President</td><td>31/12/2020</td><td>9902231085</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>TAMMARAY SHRISHAIL TELI</td><td>Nivaragi ward No-02</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>9972259122</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SASAJIW RAMACHACHADRA DADEKAR</td><td>Nivaragi ward No-4</td><td>Male</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>9686711108</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHRIMAMAT SHIDAGD CHIKKALAKI</td><td>Nivaragi ward No-3</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>8970827515</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>KASHINATH BASALIIGAPPA SASAKH</td><td>Nivaragi ward No-4</td><td>Male</td><td>Others</td><td>Member</td><td>31/12/2020</td><td>9901860809</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003011&gpname=REVATGAONhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003011&gpname=REVATGAON
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>MAHADEWI SOMANA AIHOLLI</td><td>Ward No 04 Dasur</td><td>Female</td><td>SC</td><td>President</td><td>31/12/2020</td><td>8971432924</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHAKIRABEGAN JAWED WALIKAR</td><td>Ward No 03 Umaraj</td><td>Female</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>8884722501</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>GANESH RAMACHACHADRA WALIKAR</td><td>Ward No 01 Umaraj</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>8722671947</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003004&gpname=UMARANIhttps://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1507003004&gpname=UMARANI
+<table cellspacing="1" cellpadding="3" bordercolor="#657383" id="ContentPlaceHolder1_gdDisplay" style="background-color:White;border-color:White;border-width:2px;border-style:Ridge;font-size:9pt;width:100%;">
+			<tr align="left" style="color:#E7E7FF;background-color:#4A3C8C;font-weight:bold;">
+				<th scope="col">Name</th><th scope="col">Ward Name</th><th scope="col">Sex</th><th scope="col">Members</th><th scope="col">Designation</th><th scope="col">Memebership Begin Date</th><th scope="col">Mobile No.</th><th scope="col">PHOTO</th>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SOMANIIG AMAGD AIHLLI</td><td>Kerur Ward no 1</td><td>Male</td><td>SC</td><td>President</td><td>31/12/2020</td><td>8970286259</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>ARABAJ ABUSHAKIR PATIL</td><td>Takali Ward No 7</td><td>Male</td><td>General</td><td>Member</td><td>31/12/2020</td><td>7204448465</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>PAPACHAKSHARI SAYABANA LAWAT</td><td>Takali Ward No 7</td><td>Male</td><td>General</td><td>Member</td><td>30/12/2020</td><td>6363602880</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>SHOBHA RUDRAPPA AIHLLI</td><td>Ward No 8</td><td>Female</td><td>SC</td><td>Member</td><td>31/12/2020</td><td>8495804969</td><td>&nbsp;</td>
+			</tr><tr align="left" style="color:Black;background-color:#DEDFDE;">
+				<td>RAJEEDRA SASAGANA UUBARAJ</td><td>Kerur Ward no 1</td><td>Male</td><td>&nbsp;</td><td>Member</td><td>31/12/2020</td><td>9731500071</td><td>&nbsp;</td>
+			</tr>
+		
+https://panchatantra.kar.nic.in/panchamitra/entPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;"https://panchatantra.kar.nic.in/panchamitra/entPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;"error

@@ -1,0 +1,157 @@
+//district
+                          
+  Bidar( ಬೀದರ್ )  1506
+                          
+  Kalaburagi ( ಕಲಬುರಗಿ )  1515
+                          
+  Vijayapura ( ವಿಜಯಾಪುರ )  1507
+                          
+  Yadgir ( Yadgir )  1530
+                          
+  Raichur( ರಾಯಚೂರು )  1523
+                          
+  Bagalkot( ಬಾಗಲಕೋಟೆ )  1501
+                          
+  Belagavi( ಬೆಳಗಾವಿ )  1504
+                          
+  Dharwar( ಧಾರವಾಡ )  1513
+                          
+  Uttara Kannada( ಉತ್ತರ ಕನ್ನಡ )  1527
+                          
+  Haveri( ಹಾವೇರಿ )  1517
+                          
+  Chikkamagaluru( ಚಿಕ್ಕಮಗಳೂರು )  1509
+                          
+  Udupi( ಉಡುಪಿ )  1526
+                          
+  Dakshina Kannada( ದಕ್ಷಿಣ ಕನ್ನಡ )  1511
+                          
+  Hassan( ಹಾಸನ )  1516
+                          
+  Tumakuru( ತುಮಕೂರು )  1525
+                          
+  Tumakuru( ತುಮಕೂರು )  1525
+                          
+  Chickkballapur( ಚಿಕ್ಕಬಳ್ಳಾಪುರ )  1528
+                          
+  Kolar( ಕೋಲಾರ)  1519
+                          
+                          
+  Bangaluru (Rural)( ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ )  1503
+                          
+  Ramanagar( ರಾಮನಗರ )  1529
+                          
+  Mandya( ಮಂಡ್ಯ )  1521
+                          
+  Mysuru( ಮೈಸೂರು )  1522
+                          
+  Kodagu( ಕೊಡಗು )  1518
+                          
+  Chamarajanagar( ಚಾಮರಾಜ ನಗರ )  1508
+                          
+  Bangaluru( ಬೆಂಗಳೂರು  )  1502
+                          
+  Ballari ( ಬಳ್ಳಾರಿ )  1505
+                          
+ 
+                          
+  Davangere( ದಾವಣಗೆರೆ)  1512
+                          
+  Shivamogga( ಶಿವಮೊಗ್ಗ )  1524
+                          
+  Gadag( ಗದಗ )  1514
+                          
+  Koppal( ಕೊಪ್ಪಳ )  1520
+  
+  
+  //get taalukas
+https://panchatantra.kar.nic.in/panchamitra/displayDistTal.aspx?context=districtMap&distCode=1506&talCode=
+
+
+//get details of taluka
+                   
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001015&gpname=BADALGAON  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001016&gpname=BELKONI(CH)  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001014&gpname=BHANDARKUMTHA  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001018&gpname=BONTHI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001035&gpname=CHIKLI(J)  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001034&gpname=CHINTAKI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001011&gpname=DHUPATMAHAGAON  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001037&gpname=EKAMBA  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001038&gpname=EKLAR  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001039&gpname=GUDAPALLI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001030&gpname=HEDGAPUR  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001031&gpname=HOKRANA  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001001&gpname=JAMBAGI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001008&gpname=JOJANA  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001004&gpname=KOUTHA(B)  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001026&gpname=LADHA  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001019&gpname=NAGMARPALLI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001027&gpname=SANTHPUR  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001025&gpname=SHEMBELLI  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001028&gpname=SUNDAL  
+ 
+			    https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?gp=1506001021&gpname=WADGAON(D)  
+ 
+
+https://panchatantra.kar.nic.in/panchamitra/MainMenu.aspx?tk =1506001\u0026tkname =AURAD
+
+//get members
+https://panchatantra.kar.nic.in/panchamitra/getGPData.aspx?selOption=2
+
+
+//cookie value
+Cookie: ASP.NET_SessionId=34diuy5zzofcjmpyt2mluubs
+
+	  ತ್ರಿಸೀಲಾಬಾಯಿ<    ವಾರಡ ನಂಬರ 2<    ಮಹಿಳೆರು<    SC<    President<    03/02/2021<    9972784759<    &nbsp;<  
+ 
+				  ಶಿವರಾಜ<    ವಾರಡ ನಂಬರ 1<    ಪುರುಷರು<    General<    Vice President<    03/02/2021<    9686789003<    &nbsp;<  
+ 
+				  ವಿಮಲಾಬಾಯಿ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    General<    Member<    03/02/2021<    8088529548<    &nbsp;<  
+ 
+				  ವಿಧ್ಯಾಸಾಗರ<    ವಾರಡ ನಂಬರ 1<    ಪುರುಷರು<    SC<    Member<    03/02/2021<    8710079771<    &nbsp;<  
+ 
+				  ಸರೋಜನಿ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    General<    Member<    03/02/2021<    9591766767<    &nbsp;<  
+ 
+				  ಮಲ್ಲಮ್ಮಾ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    General<    Member<    03/02/2021<    9591176899<    &nbsp;<  
+ 
+				  ಘಾಳೆಮ್ಮ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    General<    Member<    03/02/2021<    8880090143<    &nbsp;<  
+ 
+				  ಸವಿತಾ<    ವಾರಡ ನಂಬರ 2<    ಮಹಿಳೆರು<    SC<    Member<    03/02/2021<    7760030072<    &nbsp;<  
+ 
+				  ಶಿವಾಜಿ<    ವಾರಡ ನಂಬರ 3<    ಪುರುಷರು<    SC<    Member<    03/02/2021<    9480463836<    &nbsp;<  
+ 
+				  ಭಾರತ<    ವಾರಡ ನಂಬರ 3<    ಪುರುಷರು<    SC<    Member<    03/02/2021<    6362934556<    &nbsp;<  
+ 
+				  ರವಿಂದ್ರ<    ವಾರಡ ನಂಬರ 1<    ಪುರುಷರು<    General<    Member<    03/02/2021<    9620644026<    &nbsp;<  
+ 
+				  ಪದ್ಮಾವತಿ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    SC<    Member<    03/02/2021<    7259853276<    &nbsp;<  
+ 
+				  ತಿಪ್ಪಮ್ಮ<    ವಾರಡ ನಂಬರ 1<    ಮಹಿಳೆರು<    SC<    Member<    03/02/2021<    9901675195<    &nbsp;<  
+ 
+				  ಸರಸ್ವತಿ<    ವಾರಡ ನಂಬರ 2<    ಮಹಿಳೆರು<    ST<    Member<    03/02/2021<    9480463306<    &nbsp;<  
+ 
+				  ರವಿ ಗಂಗಾ<    ವಾರಡ ನಂಬರ 1<    ಪುರುಷರು<    General<    Member<    03/02/2021<    9611225775<    &nbsp;<  
+ 
+				  ರಾಜಕುಮಾರ<    ವಾರಡ ನಂಬರ 2<    ಪುರುಷರು<    General<    Member<    03/02/2021<    9480008080<    &nbsp;<  
+ 
+				  ಜೈವಂತ<    ವಾರಡ ನಂಬರ 1<    ಪುರುಷರು<    SC<    Member<    03/02/2021<    9008038491<    &nbsp;<  

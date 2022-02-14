@@ -1,0 +1,61 @@
+ContentPlaceHolder2_Panel1" style="border-color:Transparent;height:410px;width:310px;overflow-x:scroll;">
+	
+    <table cellspacing="0" align="Left" rules="all" border="1" id="ContentPlaceHolder2_dgGP" style="color:Blue;background-color:Transparent;font-size:10pt;width:320px;border-collapse:collapse;">
+		<tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003022&gpname=ARALUMALLIGE>ಅರಳ�?ಮಲ�?ಲಿಗೆ (ARALUMALLIGE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003008&gpname=AROODI>ಆರೂಢಿ (AROODI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003014&gpname=BHAKTHARAHALLI>ಭಕ�?ತರಹಳ�?ಳಿ (BHAKTHARAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003009&gpname=CHANNADEVIAGRAHARA>ಚನ�?ನಾದೇವಿ ಅಗ�?ರಹಾರ (CHANNADEVIAGRAHARA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003011&gpname=DARGAJOGIHALLI>ದಗಾಱಜೋಗಹಳ�?ಳಿ (DARGAJOGIHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003013&gpname=DODDABELAVANGALA>ದೊಡ�?ಡಬೆಳವಂಗಲ (DODDABELAVANGALA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003012&gpname=DODDATHUMAKURU>ದೊಡ�?ಡ ತ�?ಮಾಕೂರ�? (DODDATHUMAKURU)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003026&gpname=HADONAHALLI>ಹಾಡೋನಹಳ�?ಳಿ (HADONAHALLI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003025&gpname=HADRIPURA>ಹಾದ�?ರಿಪ�?ರ (HADRIPURA)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003023&gpname=HANABE>ಹಣಬೆ (HANABE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003027&gpname=HEGGADIHALLI>ಹೆಗ�?ಗಡಿಹಳ�?ಳಿ (HEGGADIHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003028&gpname=HONNAVARA>ಹೊನ�?ನಾವರ (HONNAVARA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003029&gpname=HOSAHALLI>ಹೊಸಹಳ�?ಳಿ (HOSAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003024&gpname=HULIKUNTE>ಹ�?ಲಿಕ�?ಂಟೆ (HULIKUNTE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003005&gpname=KADANURU>ಕಾಡನೂರ�? (KADANURU)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003003&gpname=KANASAVADI>ಕನಸವಾಡಿ (KANASAVADI)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003002&gpname=KANTANAKUNTE>ಕಂಟನಕ�?ಂಟೆ (KANTANAKUNTE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003006&gpname=KESTURU>ಕೆಸ�?ತೂರ�? (KESTURU)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003007&gpname=KODIGEHALLI>ಕೋಡಿಗೆಹಳ�?ಳಿ (KODIGEHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003004&gpname=KONAGHATTA>ಕೂನಘಟ�?ಟ (KONAGHATTA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003017&gpname=MAJARAHOSAHALLI>ಮಜರಾಹೊಸಹಳ�?ಳಿ (MAJARAHOSAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003018&gpname=MELEKOTE>ಮೆಳೇಕೊಟೆ (MELEKOTE)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003019&gpname=MELINAJOOGANAHALLI(S.S.GHATI)>ಮೇಲಿನಜೂಗಾನಹಳ�?ಳಿ(ಎಸ�?‌.ಎಸ�?‌.ಘಾಟಿ) (MELINAJOOGANAHALLI(S.S.GHATI))</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003010&gpname=RAJAGHATTA>ರಾಜಘಟ�?ಟ (RAJAGHATTA)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003020&gpname=SAKKAREGOLLAHALLI>ಸಕ�?ಕರೆಗೊಳ�?ಳಹಳ�?ಳಿ (SAKKAREGOLLAHALLI)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003021&gpname=SASALU>ಸಾಸಲ�? (SASALU)</a></td>
+		</tr><tr>
+			<td align="left"><a href=MainMenu.aspx?gp=1503003016&gpname=THUBUGERE>ತೂಬಗೆರೆ (THUBUGERE)</a></td>
+		</tr><tr style="background-color:#01778A;">
+			<td align="left"><a href=MainMenu.aspx?gp=1503003001&gpname=TIPPURU>ತಿಪ�?ಪೂರ�? (TIPPURU)</a></td>
+		</tr>
+	
